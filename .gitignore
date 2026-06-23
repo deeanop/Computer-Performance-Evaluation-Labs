@@ -1,0 +1,26 @@
+# build / output
+*.class
+*.jar
+*.war
+*.log
+
+# temporary files
+*.tmp
+*.swp
+*~
+
+# IDE 
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# automatically generated files
+node_modules/
+dist/
+build/
