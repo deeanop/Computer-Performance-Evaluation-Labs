@@ -1,1 +1,1 @@
-The Computer Performance Evaluation JMT Lboratory
+The Computer Performance Evaluation JMT Laboratory
